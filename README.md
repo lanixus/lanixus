@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy lanixus</h1>
+<h3 align="center">¿Quién soy? Soy una persona a la que le encanta aprender sobre todo lo relacionado con la tecnología</h3>
 
-<!--
-**lanixus/lanixus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lanixus&label=Visitas%20en%20este%20apartado&color=0e75b6&style=plastic" alt="lanixus" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en [multiegg basic](https://github.com/lanixus/multiegg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo **Ruby y bash**
+
+- 👨 Todos mis proyectos están disponibles en [https://github.com/lanixus?tab=repositories](https://github.com/lanixus?tab=repositories)
+
+- 💬 Pregúntame sobre **para cualquier cosa sobre tecnología**-
+
+📫 Cómo contactarme **lanixus@cristianmusical.online**-
+
+📄 Conoce mis experiencias [https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30]( 💻 https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30)
+
+- ⚡ Dato curioso **Sé muchas cosas a mi edad**<
+
+h3 align="left">Conéctate conmigo:</h3><p align="left">
+
+</p>
+
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=lanixus&show_icons=true&theme=dark&bg_color=930606&locale=es" alt="lanixus" /></p>
