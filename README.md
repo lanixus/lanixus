@@ -13,7 +13,7 @@
 
 📫 Cómo contactarme **lanixus@cristianmusical.online**-
 
-📄 Conoce mis experiencias [https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30]( 💻 https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30)
+📄 Conoce mis experiencias [overview]( 💻 https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30)
 
 - ⚡ Dato curioso **Sé muchas cosas a mi edad**<
 
