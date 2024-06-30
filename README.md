@@ -9,7 +9,7 @@
 
 - 👨 Todos mis proyectos están disponibles en [https://github.com/lanixus?tab=repositories](https://github.com/lanixus?tab=repositories)
 
-- 💬 Pregúntame sobre **para cualquier cosa sobre tecnología**-
+- 💬 Pregúntame sobre **cualquier cosa sobre tecnología**-
 
 📫 Cómo contactarme **lanixus@cristianmusical.online**-
 
@@ -17,7 +17,6 @@
 
 - ⚡ Dato curioso **Sé muchas cosas a mi edad**<
 
-h3 align="left">Conéctate conmigo:</h3><p align="left">
 
 </p>
 
