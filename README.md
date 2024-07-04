@@ -5,6 +5,8 @@
 
 - 🔭 Actualmente estoy trabajando en [multiegg basic](https://github.com/lanixus/multiegg)
 
+- 💻 Me gusta mejorar los codigos que veo en github, con ayuda de foros reparo los problemas y doy los nuevos pasos (si es requerido) en readme.md bendiciones ❤️
+
 - 🌱 Actualmente estoy aprendiendo **Ruby y bash**
 
 - 👨 Todos mis proyectos están disponibles en [https://github.com/lanixus?tab=repositories](https://github.com/lanixus?tab=repositories)
