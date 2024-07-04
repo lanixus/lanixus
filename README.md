@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanixus&label=Visitas%20en%20este%20apartado&color=0e75b6&style=plastic" alt="lanixus" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [Fnlobbybot]([https://github.com/lanixus/FnBr-Es/]
+- 🔭 Actualmente estoy trabajando en [Fnlobbybot][https://github.com/lanixus/FnBr-Es/]
 
 - 💻 Me gusta mejorar los codigos que veo en github, con ayuda de foros reparo los problemas y doy los nuevos pasos (si es requerido) en readme.md bendiciones ❤️
 
