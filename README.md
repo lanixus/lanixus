@@ -11,9 +11,9 @@
 
 - 👨 Todos mis proyectos están disponibles en [https://github.com/lanixus?tab=repositories](https://github.com/lanixus?tab=repositories)
 
-- 💬 Pregúntame sobre **cualquier cosa sobre tecnología**-
+- 💬 Pregúntame sobre **cualquier cosa sobre tecnología**
 
-📫 Cómo contactarme **lanixus@cristianmusical.online**-
+📫 Cómo contactarme **lanixus@cristianmusical.online** y en discord **cristianmusical**
 
 📄 Conoce mis experiencias [💻 overview](https://github.com/lanixus?tab=overview&from=2024-06-01&to=2024-06-30)
 
